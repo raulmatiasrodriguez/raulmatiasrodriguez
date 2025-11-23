@@ -1,7 +1,7 @@
-## 🚀 Hola, soy Matías Rodríguez 👋 
-📊 **Analista de Datos**| **Data Analyst**|🔍 **Transformo datos en insights accionables**
+## 🚀 Hola, soy Matías Rodríguez  
+📊 **Analista de Datos**| **Jr. Data Scientist**|🔍 **Python · SQL · Power BI**
 
-Mi objetivo es identificar oportunidades, optimizar procesos y aportar valor mediante la toma de decisiones basada en datos.
+Transformo datos en insights accionables mediante análisis exploratorio, modelado predictivo y visualización clara para apoyar la toma de decisiones.
 
 ---
 ### 🎓 **Formación:**
@@ -11,13 +11,34 @@ Mi objetivo es identificar oportunidades, optimizar procesos y aportar valor med
 - 📊 **Especialización en Análisis de Datos** _(Excel, SQL, Power BI, Python)_  
 
 ---
-### 📂 **Bienvenido a mi Portafolio de Proyectos 🚀**  
-Aquí encontrarás algunos de mis proyectos más destacados utilizando **SQL, Power BI y Python.**
+### 📂 **Portafolio de Proyectos**  
+Aquí encontrarás mis proyectos más relevantes, aplicados en entornos reales y académicos:
 
-🔹 **[📊 Análisis de Ventas con Power BI]**  
-🔹 **[📉 Predicción de Emisiones de Gases de Efecto Invernadero con Python]**   
+🔹 **[📉 Predicción de Emisiones de Gases de Efecto Invernadero (FAO) – Python]** 
+Regresión lineal | EDA | Limpieza de +2,4M registros
 
+➡️ Análisis y modelado predictivo de emisiones agrícolas globales.
+➡️ Identificación de tendencias por región y tipo de gas.
+➡️ Visualizaciones y evaluación del desempeño del modelo.
 
+🔗 🔗 Ver proyecto
+
+🔹 **[📈 Clustering de Activos Financieros – Machine Learning**   
+K-Means | Momentum · Retorno · Volatilidad | Dataset tidy
+
+➡️ Reestructuración del dataset para análisis eficiente.
+➡️ Generación de métricas financieras (retorno, volatilidad, momentum).
+➡️ Clustering no supervisado para identificar perfiles de riesgo.
+🔗 🔗 Ver proyecto
+
+🔹 📊 Power BI – Análisis de Ventas
+
+ETL · Modelado · DAX · Visualización
+
+➡️ Dashboard interactivo para seguimiento de ventas.
+➡️ Indicadores clave, segmentación dinámica y análisis temporal.
+
+🔗 🔗 Ver dashboard
 <!--
 **raulmatiasrodriguez/raulmatiasrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
