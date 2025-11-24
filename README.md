@@ -31,7 +31,7 @@ K-Means | Momentum · Retorno · Volatilidad | Dataset tidy
 ➡️ Clustering no supervisado para identificar perfiles de riesgo.  
 
 
-🔹 📊 Power BI – Análisis de Ventas - 🔗 Pendiente de subir  
+🔹 [📊 Power BI – Análisis de Ventas](https://github.com/raulmatiasrodriguez/Data-Analytics-Portfolio)  
 
 ETL · Modelado · DAX · Visualización
 
