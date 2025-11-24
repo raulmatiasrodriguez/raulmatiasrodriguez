@@ -17,9 +17,9 @@ Aquí encontrarás mis proyectos más relevantes, aplicados en entornos reales y
 🔹 **[📉 Predicción de Emisiones de Gases de Efecto Invernadero (FAO) – Python]** 
 Regresión lineal | EDA | Limpieza de +2,4M registros
 
-➡️ Análisis y modelado predictivo de emisiones agrícolas globales.
-➡️ Identificación de tendencias por región y tipo de gas.
-➡️ Visualizaciones y evaluación del desempeño del modelo.
+➡️ Análisis y modelado predictivo de emisiones agrícolas globales.  
+➡️ Identificación de tendencias por región y tipo de gas.  
+➡️ Visualizaciones y evaluación del desempeño del modelo.  
 
 🔗 [Ver proyecto en GitHub](https://github.com/raulmatiasrodriguez/FAO-Emisiones-ML)
 
