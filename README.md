@@ -14,31 +14,31 @@ Transformo datos en insights accionables mediante análisis exploratorio, modela
 ### 📂 **Portafolio de Proyectos**  
 Aquí encontrarás mis proyectos más relevantes, aplicados en entornos reales y académicos:
 
-🔹 **[📉 Predicción de Emisiones de Gases de Efecto Invernadero (FAO) – Python]**   
+🔹 [**📉 Predicción de Emisiones de Gases de Efecto Invernadero (FAO) – Python**](https://github.com/raulmatiasrodriguez/FAO-Emisiones-ML)  
 Regresión lineal | EDA | Limpieza de +2,4M registros
 
 ➡️ Análisis y modelado predictivo de emisiones agrícolas globales.  
 ➡️ Identificación de tendencias por región y tipo de gas.  
 ➡️ Visualizaciones y evaluación del desempeño del modelo.  
 
-🔗 [Ver proyecto en GitHub](https://github.com/raulmatiasrodriguez/FAO-Emisiones-ML)
 
-🔹 **[📈 Clustering de Activos Financieros – Machine Learning**   
+
+🔹 [**📈 Clustering de Activos Financieros – Machine Learning**](https://github.com/raulmatiasrodriguez/Clustering-Activos-Financieros)     
 K-Means | Momentum · Retorno · Volatilidad | Dataset tidy  
 
 ➡️ Reestructuración del dataset para análisis eficiente.  
 ➡️ Generación de métricas financieras (retorno, volatilidad, momentum).  
 ➡️ Clustering no supervisado para identificar perfiles de riesgo.  
-🔗 🔗 Ver proyecto
 
-🔹 📊 Power BI – Análisis de Ventas
+
+🔹 📊 Power BI – Análisis de Ventas - 🔗 Pendiente de subir  
 
 ETL · Modelado · DAX · Visualización
 
 ➡️ Dashboard interactivo para seguimiento de ventas.  
 ➡️ Indicadores clave, segmentación dinámica y análisis temporal.  
 
-🔗 🔗 Ver dashboard
+
 <!--
 **raulmatiasrodriguez/raulmatiasrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
