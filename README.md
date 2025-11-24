@@ -21,7 +21,7 @@ Regresión lineal | EDA | Limpieza de +2,4M registros
 ➡️ Identificación de tendencias por región y tipo de gas.
 ➡️ Visualizaciones y evaluación del desempeño del modelo.
 
-🔗 🔗 Ver proyecto
+🔗 [Ver proyecto en GitHub](https://github.com/raulmatiasrodriguez/FAO-Emisiones-ML)
 
 🔹 **[📈 Clustering de Activos Financieros – Machine Learning**   
 K-Means | Momentum · Retorno · Volatilidad | Dataset tidy
