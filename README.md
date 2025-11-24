@@ -24,19 +24,19 @@ Regresión lineal | EDA | Limpieza de +2,4M registros
 🔗 [Ver proyecto en GitHub](https://github.com/raulmatiasrodriguez/FAO-Emisiones-ML)
 
 🔹 **[📈 Clustering de Activos Financieros – Machine Learning**   
-K-Means | Momentum · Retorno · Volatilidad | Dataset tidy
+K-Means | Momentum · Retorno · Volatilidad | Dataset tidy  
 
-➡️ Reestructuración del dataset para análisis eficiente.
-➡️ Generación de métricas financieras (retorno, volatilidad, momentum).
-➡️ Clustering no supervisado para identificar perfiles de riesgo.
+➡️ Reestructuración del dataset para análisis eficiente.  
+➡️ Generación de métricas financieras (retorno, volatilidad, momentum).  
+➡️ Clustering no supervisado para identificar perfiles de riesgo.  
 🔗 🔗 Ver proyecto
 
 🔹 📊 Power BI – Análisis de Ventas
 
 ETL · Modelado · DAX · Visualización
 
-➡️ Dashboard interactivo para seguimiento de ventas.
-➡️ Indicadores clave, segmentación dinámica y análisis temporal.
+➡️ Dashboard interactivo para seguimiento de ventas.  
+➡️ Indicadores clave, segmentación dinámica y análisis temporal.  
 
 🔗 🔗 Ver dashboard
 <!--
