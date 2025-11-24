@@ -14,7 +14,7 @@ Transformo datos en insights accionables mediante análisis exploratorio, modela
 ### 📂 **Portafolio de Proyectos**  
 Aquí encontrarás mis proyectos más relevantes, aplicados en entornos reales y académicos:
 
-🔹 **[📉 Predicción de Emisiones de Gases de Efecto Invernadero (FAO) – Python]** 
+🔹 **[📉 Predicción de Emisiones de Gases de Efecto Invernadero (FAO) – Python]**   
 Regresión lineal | EDA | Limpieza de +2,4M registros
 
 ➡️ Análisis y modelado predictivo de emisiones agrícolas globales.  
