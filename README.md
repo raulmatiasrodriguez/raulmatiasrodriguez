@@ -6,7 +6,7 @@ Transformo datos en insights accionables mediante análisis exploratorio, modela
 ---
 ### 🎓 **Formación:**
 
-- 📌 **Licenciatura en Ciencia de Datos** _(En curso, finalización en 2025)_ 
+- 📌 **Licenciatura en Ciencia de Datos** _(Cursada finalizada 2025, avance de la carrera 64,28%)_ 
 - 🖥️ **Analista de Sistemas**  
 - 📊 **Especialización en Análisis de Datos** _(Excel, SQL, Power BI, Python)_  
 
